@@ -1,1 +1,12 @@
-/* styles go here */
+.LabelInput {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.Wrapper {
+  margin-bottom: 20px;
+}
+
+.Wrapper > :last-child {
+  margin-bottom: 0;
+}
