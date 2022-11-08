@@ -1,12 +1,12 @@
-.LabelInput {
+.label-input {
   display: block;
   margin-bottom: 10px;
 }
 
-.Wrapper {
+.wrapper {
   margin-bottom: 20px;
 }
 
-.Wrapper > :last-child {
+.wrapper > :last-child {
   margin-bottom: 0;
 }
